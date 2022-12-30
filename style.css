@@ -12,7 +12,7 @@ body{
 
     min-height: 1000px;
     display: grid;
-
+      grid-template-rows: 20% 80%;
    grid-template-columns: 300px 700px;
    margin: 20px auto;
 }
